@@ -57,27 +57,27 @@ The application helps organize essential aspects of the educational process in a
 - **OOP Concepts:** Inheritance, Encapsulation, Static Methods, Operator Overloading, Input Validation
 
 
-## 📁 Project Structure
+## Project Structure
 
 CW2/
-├── CW2.sln                   # Solution file
-├── CW2/                      # Main project folder
-│   ├── Program.cs
-│   ├── Menu.cs
-│   ├── Schedule.cs
-│   ├── Pair.cs
-│   ├── Class.cs
-│   ├── Student.cs
-│   ├── StudentsGroup.cs
-│   ├── Teacher.cs
-│   ├── Date.cs
-│   ├── Time.cs
-│   └── CW2.csproj
-├── InputTests/               # Unit test project
-│   ├── InputTests.csproj
-│   ├── UnitTest1.cs
-│   └── Usings.cs
-├── .gitignore                # Ignore build files and temp folders
+├── CW2.sln                   # Solution file  
+├── CW2/                      # Main project folder  
+│   ├── Program.cs  
+│   ├── Menu.cs  
+│   ├── Schedule.cs  
+│   ├── Pair.cs  
+│   ├── Class.cs  
+│   ├── Student.cs  
+│   ├── StudentsGroup.cs  
+│   ├── Teacher.cs  
+│   ├── Date.cs  
+│   ├── Time.cs  
+│   └── CW2.csproj  
+├── InputTests/               # Unit test project  
+│   ├── InputTests.csproj  
+│   ├── UnitTest1.cs  
+│   └── Usings.cs  
+├── .gitignore                # Ignore build files and temp folders  
 
 
 ## How to Use
