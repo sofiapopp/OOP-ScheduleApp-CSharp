@@ -156,7 +156,7 @@ After launching the application, the user is presented with an interactive conso
 
 ### Output of the "Display the schedule" option
 
-<img width="491" height="303" alt="image" src="https://github.com/user-attachments/assets/fa8a80f4-6e4c-4f4d-b6b4-61222a60c0ed" />
+<img width="783" height="362" alt="image" src="https://github.com/user-attachments/assets/3772d758-14e7-424f-8cb8-172a6c0db69d" />
 
 ### File output of the "Display the schedule" option
 
