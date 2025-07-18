@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.log
+*.tmp
+*.cache
+
+
+*.dll
+*.exe
+*.app
+*.pdb
+*.db
+*.mdb
+
+
+.DS_Store
+Thumbs.db
