@@ -59,7 +59,7 @@ The application helps organize essential aspects of the educational process in a
 
 ## Project Structure
 
-CW2/
+CW2/  
 ├── CW2.sln                   # Solution file  
 ├── CW2/                      # Main project folder  
 │   ├── Program.cs  
